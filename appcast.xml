@@ -8,7 +8,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.3</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/michcio53/contextai_public/releases/download/untagged-10613633b75f7fafcfc4/ContextAI.dmg" length="12950190" type="application/octet-stream" sparkle:edSignature="j4O1w8P5TdvS6X6ffzhb5zYDVfg1gb/JvXvMH6PMKgGCGbkkqMuUYvbv1mA4DCkl1o4vfxk1COCu3JvH9fjICg=="/>
+            <enclosure url="https://github.com/michcio53/contextai_public/releases/download/1.0.0%2B1/ContextAI.dmg" length="12950190" type="application/octet-stream" sparkle:edSignature="j4O1w8P5TdvS6X6ffzhb5zYDVfg1gb/JvXvMH6PMKgGCGbkkqMuUYvbv1mA4DCkl1o4vfxk1COCu3JvH9fjICg=="/>
         </item>
     </channel>
 </rss>
