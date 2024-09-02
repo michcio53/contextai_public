@@ -4,11 +4,11 @@
         <title>contextai</title>
         <item>
             <title>1.0.0</title>
-            <pubDate>Mon, 02 Sep 2024 09:33:34 +0200</pubDate>
-            <sparkle:version>6</sparkle:version>
+            <pubDate>Mon, 02 Sep 2024 10:00:14 +0200</pubDate>
+            <sparkle:version>8</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.3</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/michcio53/contextai_public/releases/download/1.0.0%2B1/ContextAI.dmg" length="12938637" type="application/octet-stream" sparkle:edSignature="v02diFSkkDNlYo0QWpipS3XhhB4J1GHSoiOhTqY8V/us+b8WxLITUK3nDMNHbXp0GyUsjMI4j048WAg3Tz8QDA=="/>
+            <enclosure url="https://github.com/michcio53/contextai_public/releases/download/1.0.0%2B1/ContextAI.dmg" length="12939900" type="application/octet-stream" sparkle:edSignature="kzFSpURrbd0YRWNX9Mn5fXkwkBpEnfuK39cFYTynQfIFPy+78602OI9O3Y6WSqYjZLH7KV00OK1TSQ/ejTcGDA=="/>
         </item>
     </channel>
 </rss>
